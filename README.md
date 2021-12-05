@@ -6,18 +6,18 @@ My dart learning path / Mi aprendizaje de Dart
 Tienes que considerar el software necesario para correr estos programas:
 * [Vs Code](https://code.visualstudio.com/download "Download VSCode")
 * [Dart](https://dart.dev/ "Dart")
-    *[Aun que yo recomiendo instalar Flutter que ya viene con dart](https://flutter.dev/?gclsrc=aw.ds "Flutter")
+    * [Aun que yo recomiendo instalar Flutter que ya viene con dart](https://flutter.dev/?gclsrc=aw.ds "Flutter")
 * [Git](https://git-scm.com/downloads "Git")
 * [Si instalas Flutter necesitaras Android studio](https://developer.android.com/studio?hl=es-419&gclsrc=aw.ds&gclid=Cj0KCQiA47GNBhDrARIsAKfZ2rDVTAXOaWGk7I-lYyohsZesdZfgwY9-eIetRjKlcCxYqnn8iMRKKDsaAo90EALw_wcB "Adroid Studio")
 
 ### Como correr codigo de flutter en VsCode
 Hay 3 formas en las cuales puedes correr codigo de Dart:
 1. Crear un nuevo proyecto de Dart 
-    '''Ctrl+Shift+p > New dart proyect > Simple Console Application'''
+    ```Ctrl+Shift+p > New dart proyect > Simple Console Application ```
     La desventaja de esto es que crearias una proyecto nuevo para cada parte del curso no lo recomiendo
 2. Usar la terminal:
-    '''Ctrl + ` '''
-    En terminal es solo cuestion de escribir ''' dart .\"nombre del programa"'''
+    ```Ctrl + ` ```
+    En terminal es solo cuestion de escribir ``` dart .\"nombre del programa"```
     Es practico y rapido
 3. Usando Run | Debug: 
     Arriba del main de tu programa aparecera esto:
