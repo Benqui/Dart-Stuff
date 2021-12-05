@@ -13,15 +13,15 @@ Tienes que considerar el software necesario para correr estos programas:
 ### Como correr codigo de flutter en VsCode
 Hay 3 formas en las cuales puedes correr codigo de Dart:
 1. Crear un nuevo proyecto de Dart 
-    ```Ctrl+Shift+p > New dart proyect > Simple Console Application ```
+    ```Ctrl+Shift+p > New dart proyect > Simple Console Application ```  
     La desventaja de esto es que crearias una proyecto nuevo para cada parte del curso no lo recomiendo
 2. Usar la terminal:
     ```Ctrl + ` ```
-    En terminal es solo cuestion de escribir ``` dart .\"nombre del programa"```
+    En terminal es solo cuestion de escribir ``` dart .\"nombre del programa"```  
     Es practico y rapido
 3. Usando Run | Debug: 
     Arriba del main de tu programa aparecera esto:
-    ![Run | Debug](https://github.com/Benqui/Dart-Stuff/blob/main/Media/RunDartopt3.png "image")
+    ![Run | Debug](https://github.com/Benqui/Dart-Stuff/blob/main/Media/RunDartopt3.png "image")  
     Ojo abrir la terminal para ver lo que se muestra en la consola.
 
 ## [Parte 01](https://github.com/Benqui/Dart-Stuff/tree/main/programs/part_01 "Parte 01")
