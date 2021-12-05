@@ -16,7 +16,7 @@ Hay 3 formas en las cuales puedes correr codigo de Dart:
     ```Ctrl+Shift+p > New dart proyect > Simple Console Application ```  
     La desventaja de esto es que crearias una proyecto nuevo para cada parte del curso no lo recomiendo
 2. Usar la terminal:
-    ```Ctrl + ` ```
+    ```Ctrl + ` ```  
     En terminal es solo cuestion de escribir ``` dart .\"nombre del programa"```  
     Es practico y rapido
 3. Usando Run | Debug: 
