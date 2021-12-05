@@ -22,7 +22,7 @@ Hay 3 formas en las cuales puedes correr codigo de Dart:
 3. Usando Run | Debug: 
     Arriba del main de tu programa aparecera esto:
     ![Run | Debug](https://github.com/Benqui/Dart-Stuff/blob/main/Media/RunDartopt3.png "image")  
-    Ojo abrir la terminal para ver lo que se muestra en la consola.
+    Ojo, tienes que abrir la terminal para ver lo que se muestra en la consola.
 
 ## [Parte 01](https://github.com/Benqui/Dart-Stuff/tree/main/programs/part_01 "Parte 01")
 En esta parte vemos el hola mundo y el tipo de datos que usaremos en Dart
