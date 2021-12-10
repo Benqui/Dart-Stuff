@@ -1,16 +1,16 @@
-class PersonaMaps {
-  //campos o propiedades
-  String? nombre;
-  int? edad;
-  String? _bio; //asi es como se convierte en priivado un atributo
-  //gets y sets
+import 'clases/personaGETSET.dart';
 
-  //constructores
-  //metodos o funciones de la clase
-  @override //decorador que dice que debe sobreescribir el padre de tostring
-  String toString() {
-    // TODO: implement toString
-    // return super.toString();
-    return '$nombre $edad $_bio';
-  }
+void main(List<String> args) {
+  /* Calses en archivos independientes */
+  final persona = new PersonaMaps();
+
+  persona
+    ..nombre = 'benqui'
+    ..edad = 33;
+  // ..bio = 'Prgrama en dart';
+  persona.bio = 'Me gusta programar en dart';
+
+  print(persona.bio);
 }
+//una propiedad o metodo privados sirven principalmenre
+//para controla de manera estricta como se establecen o recuperan valores de la misma
