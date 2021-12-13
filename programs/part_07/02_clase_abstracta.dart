@@ -20,7 +20,7 @@ class Carro extends Vehiculo {
   bool revisaMotor() {
     if (encendido == true) print('motor ok');
     return true;
-  }
+  } //por buena practica es bueno poner el @override
 }
 
 void main(List<String> args) {
@@ -29,6 +29,8 @@ void main(List<String> args) {
   final ford = new Carro();
   ford.encender();
   ford.apagado();
+  ford.encender();
+  ford.revisaMotor();
 }
 /*
 o se pueden crear nuevas instancias de una clase abstracta
