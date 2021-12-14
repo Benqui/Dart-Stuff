@@ -35,3 +35,31 @@ El contenido es:
 5. Tipo de datos: Listas o vectores
 6. Tipo de datos: Sets
 7. Tipo de datos: Mapas o Diccionarios
+
+## [Parte 02](https://github.com/Benqui/Dart-Stuff/tree/main/programs/part_02 "Parte 02")
+En esta parte vemos lo que son las variables, los comentatios y los operadores
+
+El contenido es:
+1. Variables constantes y finales
+2. Palabra reservada "late"
+3. Operadores Aritmeticos
+4. Operacion de asignacion, condicional, relacional y de tipo
+5. Operadores relacionales y por tipos
+
+## [Parte 03](https://github.com/Benqui/Dart-Stuff/tree/main/programs/part_03 "Parte 03")
+En esta parte vemos el control de flujo
+
+
+El contenido es:
+1. Input de usuario
+2. Is y else
+3. Ciclo for
+4. For in
+5. Ciclo while
+6. Ciclo Do-While
+7. Break y continue
+8. Ciclo for con etiquetas
+9. Switch
+
+
+
