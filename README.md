@@ -52,7 +52,7 @@ En esta parte vemos el control de flujo
 
 El contenido es:
 1. Input de usuario
-2. Is y else
+2. If y else
 3. Ciclo for
 4. For in
 5. Ciclo while
@@ -61,5 +61,71 @@ El contenido es:
 8. Ciclo for con etiquetas
 9. Switch
 
+## [Parte 04](https://github.com/Benqui/Dart-Stuff/tree/main/programs/part_04 "Parte 04")
+Aqui vemos funciones en Dart
+
+El contenido es:
+1. Funciones basicas
+2. Argumentos posicionales
+3. Argumetos por nombre
+4. Argumentos por valor y referencia
+5. Funciones lambda o de flecha
+6. Callbacks
+
+## [Parte 05](https://github.com/Benqui/Dart-Stuff/tree/main/programs/part_05 "Parte 05")
+Aqui vemos tipos no tan comunes en dart
+
+El contenido es:
+1. Queues o Colas
+2. Enum o Enumeraciones
+3. Futures
+4. Futures parte 2
+5. Async - Await
+6. Catch error
+7. Streams
+8. Streams onError, onDone y cancelOnError
+9. Streams tipados y Broadcast
+
+## [Parte 06](https://github.com/Benqui/Dart-Stuff/tree/main/programs/part_06 "Parte 06")
+Aquie lo que vemos son Clases en Dart
+
+El contenido es:
+1. Estructura de una clase 
+2. Clases en archivos independientes
+3. Propiedades privadas
+4. Gets y Sets
+5. Constructores Basicos
+6. Constructores con nombre
+7. Propiedades finales
+8. Constructores constantes
+9. Constructores Factory
+10. Propiedades y metodos estaticos
+11. Patron singleton
+
+## [Parte 07](https://github.com/Benqui/Dart-Stuff/tree/main/programs/part_07 "Parte 07")
+Aqui vemos lo que es la herencia de las clases 
+
+El contenido es:
+1. Extends
+2. Clase abstract
+3. Super constructor
+4. Override
+5. Mixins
+
+## [Parte 08](https://github.com/Benqui/Dart-Stuff/tree/main/programs/part_08 "Parte 08")
+Documentacion y detalles en dart
 
 
+Aqui lo que quiero que quede claro es que se ven metodos y propiedades de los objetos pero usando la [documentacion oficial de dart](https://dart.dev/guides "Doc de dart")
+
+El contenido es:
+1. Doubles
+2. Strings
+3. Mapas
+
+## [Parte 09](https://github.com/Benqui/Dart-Stuff/tree/main/programs/part_09/paquetes "Parte 09")
+Ejemplo de un proyecto o aplicacion con paquetes 
+
+
+## [Parte 10](https://github.com/Benqui/Dart-Stuff/tree/main/programs/part_10/trabajo_final/paises "Parte 10")
+Otro ejemplo de un proyecto o aplicacion con paquetes 
